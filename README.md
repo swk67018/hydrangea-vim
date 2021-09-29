@@ -15,6 +15,10 @@ This repository includes a color scheme file for Vim.
 * Customization via colorscheme [generator script](src/hydrangea.py) written in Python
 
 
+## Change by swk67018
+Remove background color of `Number` and `Constant`
+
+
 ## Installation
 
 ### For vim-plug users
