@@ -31,7 +31,7 @@ hi SpecialKey ctermfg=23 ctermbg=38 cterm=bold guifg=#064253 guibg=#169ec4 gui=b
 hi NonText ctermfg=241 ctermbg=235 cterm=NONE guifg=#586374 guibg=#1e222c gui=NONE
 hi MatchParen ctermfg=161 ctermbg=NONE cterm=bold guifg=#e91e63 guibg=NONE gui=bold
 hi Comment ctermfg=241 cterm=NONE guifg=#586374 gui=NONE
-hi Constant ctermfg=44 ctermbg=23 cterm=NONE guifg=#36c2c2 guibg=#134242 gui=NONE
+hi Constant ctermfg=44 cterm=NONE guifg=#36c2c2 gui=NONE
 hi Number ctermfg=81 cterm=NONE guifg=#56c7ee gui=NONE
 hi Identifier ctermfg=255 cterm=bold guifg=#edf5ff gui=bold
 hi Function ctermfg=255 cterm=bold guifg=#edf5ff gui=bold
